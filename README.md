@@ -29,11 +29,6 @@ LowCode低代码社区是由在一线互联网公司深耕技术多年的技术�
 
 Give a ⭐️ if this project helped you!
 
-## 赞助 | Sponsored
-开源不易, 有了您的赞助, 我们会做的更好~
-
-<img src="http://cdn.dooring.cn/dr/WechatIMG2.jpeg" width="180px" />
-
 ## 技术反馈和交流群 | Technical feedback and communication
 微信：beautifulFront
 
